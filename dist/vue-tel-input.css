@@ -1,0 +1,13 @@
+
+.dropdown-menu.show {
+  max-height: 250px;
+  overflow: scroll;
+}
+.input-group img {
+  width: 25px;
+}
+.drop-padding {
+}
+.inputPhone {
+  border-left: 0.25rem;
+}
