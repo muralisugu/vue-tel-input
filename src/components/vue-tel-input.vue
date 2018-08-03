@@ -24,10 +24,9 @@
 
 <script>
   /* eslint-disable import/extensions */
-
   import { format, asYouType, isValidNumber } from 'libphonenumber-js';
-import allCountries from '../assets/all-countries';
-import getCountry from '../assets/default-country';
+  import allCountries from '../assets/all-countries';
+  import getCountry from '../assets/default-country';
 
 export default {
     name: 'vue-tel-input',
